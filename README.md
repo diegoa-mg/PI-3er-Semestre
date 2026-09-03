@@ -14,7 +14,7 @@ No necesitas instalar Python, Node ni PostgreSQL en tu máquina — todo corre d
 ### 1. Clona el proyecto
 
 ```bash
-git clone <url-del-repo>
+git clone https://github.com/diegoa-mg/PI-3er-Semestre.git
 cd PI3erSemestre
 ```
 
