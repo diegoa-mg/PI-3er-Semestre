@@ -1,0 +1,5 @@
+{
+  "app": { "name": "POS Multi-branch" },
+  "login": { "title": "Login" },
+  "common": { "notFound": "Page not found" }
+}
